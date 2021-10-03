@@ -6,10 +6,11 @@ class addfloat
 }
 public class addition_of_float extends addfloat
 {
+    float add=a+b;
     public static void main(String args[])
     {
         addition_of_float obj= new addition_of_float();
-        System.out.print("addittion of float:"+obj.a);
+        System.out.print("addittion of float:"+obj.add);
     }
     
 }
