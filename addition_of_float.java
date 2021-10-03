@@ -2,7 +2,7 @@
 class addfloat
 {
   float a=10.f;
-  float b=20.f;
+  float b=00.f;
 }
 public class addition_of_float extends addfloat
 {
